@@ -1,0 +1,9 @@
+maria reyes;isla de chiloe;cultural;3;90000
+sofia bernal;lican ray;natural;4;40000
+ariel ramirez;torres del paine;natural;2;60000
+fabrizio torres;pomaire;cultural;5;35000
+anabel warren;volcan villarrica;aventura;2;55000
+pablo escobar;bariloche;aventura;3;60000
+antonia lorca;puerto savedra;natural;1;22000
+
+
