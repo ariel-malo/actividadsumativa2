@@ -45,7 +45,7 @@ https://github.com/ariel-malo/LlanquihueTour.git
 ---
 
 **Repositorio GitHub:** \[https://github.com/ariel-malo/LlanquihueTour.git]
-**Fecha de entrega:** \[10/06/2026]
+**Fecha de entrega:** \[20/06/2026]
 
 ---
 
